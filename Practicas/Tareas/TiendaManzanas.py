@@ -1,4 +1,5 @@
 #Creacion de una tienda de Manzanas
+#Intento uno
 print("Bienvenido a la tienda de Manzanas")
 print("Escribe tu Nombre")
 nombre = input()
